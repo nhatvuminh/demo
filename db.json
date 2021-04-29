@@ -1,8 +1,8 @@
 {
   "footballers": [
-    { "id": 1, "name": "Thierry Henry", "cardLevel": 6, "OVR": 99 },
-    { "id": 2, "name": "Cristiano Ronaldo", "cardLevel": 7, "OVR": 105 },
-    { "id": 3, "name": "Frank Rijkaard", "cardLevel": 8, "OVR": 107 }
+    { "id": 1, "avatar": "https://s1.fifaaddict.com/fo4/players/awdaynqv.png?20200818", "name": "T. Henry", "cardLevel": 7, "OVR": 101 },
+    { "id": 2, "avatar": "https://s1.fifaaddict.com/fo4/players/zqjybwom.png?20200818", "name": "C. Ronaldo", "cardLevel": 7, "OVR": 105 },
+    { "id": 3, "avatar": "https://s1.fifaaddict.com/fo4/players/dqwqjqrv.png?20200818", "name": "F. Rijkaard", "cardLevel": 8, "OVR": 107 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
