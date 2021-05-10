@@ -5,37 +5,37 @@
     { "id": 3, "avatar": "https://s1.fifaaddict.com/fo4/players/dqwqjqrv.png?20200818", "name": "F. Rijkaard", "cardLevel": 8, "OVR": 107 }
   ],
   "user": [
-  {
-    "avatar":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKUBrihFdqXrl2Nvl7YsT7YB5hz6eSNmcKg&usqp=CAU",
-    "name": "Mike Socreats",
-  },
-  {
-    "avatar":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_HvS_-JGJeHBXcIMxXDitIStV-b6Orcbqqg&usqp=CAU",
-    "name": "Ashley Barnes",
-  },
-  {
-    "avatar":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1PTHh_VXhbFLLrA6mm5CZpDdc6sIGA43Jw&usqp=CAU",
-    "name": "Kola Manser",
-  },
-  {
-    "avatar":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglHeFz5vAiihn3fyE1U0L-iRdoCz5fo5sHQ&usqp=CAU",
-    "name": "Kurt Schneider",
-  },
-  {
-    "avatar":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6GFwgybWjWkHlnC1KzKSpdi_Nb9HXIDdaQ&usqp=CAU",
-    "name": "Cristina Contanza",
-  },
-  {
-    "avatar":
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSR93QyYVOzg6_VInn8f9VsoaZ99XhOSeNFg&usqp=CAU",
-    "name": "Paul Roger",
-  },
-], 
+    {
+      "avatar":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRKUBrihFdqXrl2Nvl7YsT7YB5hz6eSNmcKg&usqp=CAU",
+      "name": "Mike Socreats",
+    },
+    {
+      "avatar":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_HvS_-JGJeHBXcIMxXDitIStV-b6Orcbqqg&usqp=CAU",
+      "name": "Ashley Barnes",
+    },
+    {
+      "avatar":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1PTHh_VXhbFLLrA6mm5CZpDdc6sIGA43Jw&usqp=CAU",
+      "name": "Kola Manser",
+    },
+    {
+      "avatar":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglHeFz5vAiihn3fyE1U0L-iRdoCz5fo5sHQ&usqp=CAU",
+      "name": "Kurt Schneider",
+    },
+    {
+      "avatar":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6GFwgybWjWkHlnC1KzKSpdi_Nb9HXIDdaQ&usqp=CAU",
+      "name": "Cristina Contanza",
+    },
+    {
+      "avatar":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSR93QyYVOzg6_VInn8f9VsoaZ99XhOSeNFg&usqp=CAU",
+      "name": "Paul Roger",
+    },
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
