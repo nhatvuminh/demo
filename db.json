@@ -34,7 +34,7 @@
       "avatar":
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSR93QyYVOzg6_VInn8f9VsoaZ99XhOSeNFg&usqp=CAU",
       "name": "Paul Roger",
-    },
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
